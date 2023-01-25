@@ -1,0 +1,3 @@
+```
+Usage: i3idle SECONDS COMMAND...
+```
